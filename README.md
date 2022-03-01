@@ -1,2 +1,2 @@
 # alx-zero_day
-not empty
+new update
